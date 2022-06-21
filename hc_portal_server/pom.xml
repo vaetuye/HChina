@@ -29,7 +29,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.47</version>
+            <version>8.0.28</version>
         </dependency>
 
         <!--注意:必须添加该依赖,否则会导致服务注册后,又立即取消注册的bug-->
